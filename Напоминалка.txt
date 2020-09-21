@@ -1,0 +1,4 @@
+npm i // установка всех плагинов. (node_modules)
+
+npm cache clean --force (очистака npm)
+npm i npm -g (установка npm)
